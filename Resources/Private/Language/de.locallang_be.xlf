@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="en" target-language="de" datatype="plaintext" original="EXT:iconpack_themify/Resources/Private/Language/locallang.xlf" date="2021-09-19T13:57:00Z" product-name="iconpack_themify">
+		<header />
+		<body>
+			<trans-unit id="cat.arrows-directions" resname="cat.arrows-directions">
+				<source>Arrows  &amp; Directions</source>
+				<target>Pfeile &amp; Richtungen</target>
+			</trans-unit>
+			<trans-unit id="cat.web-apps" resname="cat.web-apps">
+				<source>Web Apps</source>
+				<target>Web Apps</target>
+			</trans-unit>
+			<trans-unit id="cat.controls" resname="cat.controls">
+				<source>Controls</source>
+				<target>Steuerelemente</target>
+			</trans-unit>
+			<trans-unit id="cat.text-editor" resname="cat.text-editor">
+				<source>Text Editor</source>
+				<target>Text Editor</target>
+			</trans-unit>
+			<trans-unit id="cat.layout" resname="cat.layout">
+				<source>Layout</source>
+				<target>Layout</target>
+			</trans-unit>
+			<trans-unit id="cat.brands" resname="cat.brands">
+				<source>Brands</source>
+				<target>Marken</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

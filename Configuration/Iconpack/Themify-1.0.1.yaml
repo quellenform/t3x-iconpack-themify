@@ -1,0 +1,26 @@
+iconpack:
+  title: "Themify"
+  key: "themify"
+  version: "1.0.1"
+  url: "https://themify.me/themify-icons"
+  logo: "EXT:iconpack_themify/Resources/Public/Vendor/themify-1.0.1/Logo.svg"
+
+  renderTypes:
+    webfont:
+      css: "EXT:iconpack_themify/Resources/Public/Vendor/themify-1.0.1/css/webfont.css"
+      prefix: "ti-"
+      attributes:
+        aria-hidden: "true"
+
+    svg:
+      source: "EXT:iconpack_themify/Resources/Public/Vendor/themify-1.0.1/svgs/"
+      attributes:
+        fill: "currentColor"
+
+    svgInline:
+      source: "EXT:iconpack_themify/Resources/Public/Vendor/themify-1.0.1/svgs/"
+      prefix: "ti-"
+
+  categories: "EXT:iconpack_themify/Resources/Public/Vendor/themify-1.0.1/metadata/categories.yml"
+
+  icons: "EXT:iconpack_themify/Resources/Public/Vendor/themify-1.0.1/metadata/icons.yml"
