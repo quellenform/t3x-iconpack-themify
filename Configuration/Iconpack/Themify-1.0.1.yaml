@@ -12,8 +12,6 @@ iconpack:
 
     webfont:
       css: "EXT:iconpack_themify/Resources/Public/Vendor/themify-1.0.1/css/webfont.css"
-      attributes:
-        aria-hidden: "true"
 
     svg:
       source: "EXT:iconpack_themify/Resources/Public/Vendor/themify-1.0.1/svgs/"
@@ -22,7 +20,6 @@ iconpack:
       source: "EXT:iconpack_themify/Resources/Public/Vendor/themify-1.0.1/svgs/"
       attributes:
         fill: "currentColor"
-        role: "img"
 
   categories: "EXT:iconpack_themify/Resources/Public/Vendor/themify-1.0.1/metadata/categories.yml"
 
